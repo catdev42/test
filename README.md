@@ -1,5 +1,6 @@
-# tests
+# Tests
 
-Permutations: Next Lexicographical Permutation
-Permutations in lexicographical order.
--Donald Knuth "The Art of Computer Programming"
+
+## Permutations: Next Lexicographical Permutation 
+Permutations in lexicographical order \
+Original Source: Donald Knuth "The Art of Computer Programming"
